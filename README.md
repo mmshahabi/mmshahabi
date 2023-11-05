@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmshahabi CEO @ TechForge Solutions
+👋 Hi, I’m @mmshahabi CEO @ TechForge Solutions
 Greetings! My name is Mohammad Shahabi, and I am the CEO of TechForge Solutions, a leading software development company
 with over 10 years of experience. At TechForge, we specialize in web and software development, providing innovative solutions to our clients.
 
